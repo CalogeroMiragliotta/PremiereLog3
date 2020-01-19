@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="array_sizetext">
+        <item>14sp</item>
+        <item>50sp</item>
+        <item>150sp</item>
+    </array>
+
+</resources>

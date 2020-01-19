@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:checked="false"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/ritiro"
+        android:title="Aggiungi Ritiro"
+        android:checked="false"
+        android:icon="@drawable/pacco"/>
+    <item android:id="@+id/aggiornamento"
+        android:title="Aggiornamento"
+        android:checked="false"
+        android:icon="@drawable/upgrade" />
+        <item android:id="@+id/logout"
+        android:title="Logout"
+        android:checked="false"
+        android:icon="@drawable/logout"/>
+       </group>
+
+    </menu>
